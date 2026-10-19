@@ -1,0 +1,6 @@
+
+aws: [ERROR]: An error occurred (InvalidClientTokenId) when calling the GetCallerIdentity operation: The security token included in the request is invalid
+
+aws: [ERROR]: An error occurred (AuthFailure) when calling the DescribeRegions operation: AWS was not able to validate the provided access credentials
+
+aws: [ERROR]: An error occurred (InvalidToken) when calling the ListBuckets operation: The provided token is malformed or otherwise invalid.
